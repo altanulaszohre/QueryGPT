@@ -19,7 +19,7 @@ pip install sentence-transformers faiss-cpu transformers colorama nltk
 ### Run the System
 Execute the script with the following command:
 ```bash
-python querygpt.py
+jupyter notebook QueryGPT.ipynb
 ```
 
 ### How It Works?
